@@ -1,2 +1,1 @@
-Hello, world!
-I'm Nelia!
+It's test file.
